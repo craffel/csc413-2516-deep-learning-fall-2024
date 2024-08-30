@@ -2,11 +2,11 @@
 
 Instructor: Colin Raffel
 
-TAs: TBD
+TAs: Aida Ramezani (lead), Zongliang Ji, Umangi Jain, Andreas Burger, Yuchi Zhao, Ruofan Liang, and Gül Sena Altintas	
 
-Quercus: TBD
+Quercus: https://q.utoronto.ca/courses/352639
 
-Piazza: Link in Quercus
+Piazza: TBD
 
 Term: Fall 2024
 
