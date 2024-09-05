@@ -38,6 +38,7 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 Because the book is occasionally updated, the sections listed may become out-of-date.
 If a reading seems incongruous with the topic of the lecture, please let me know and I will check if the sections changed.
 Tutorials will more directly cover the background and tools needed for each homework assignment or, when preceding an exam, will consist of an exam review.
+Homeworks are due on **Thursdays** at 11:59pm -- for example, Homework 1 is due on 9/26 at 11:59pm.
 
 | Date  | Subject                                                                        | Reading                              | Homework            |
 | ----- | ------------------------------------------------------------------------------ | ------------------------------------ | ------------------- |
