@@ -6,7 +6,7 @@ TAs: Aida Ramezani (lead), Zongliang Ji, Umangi Jain, Andreas Burger, Yuchi Zhao
 
 Quercus: https://q.utoronto.ca/courses/352639
 
-Piazza: TBD
+Piazza (for all course communications): Available on Quercus
 
 Term: Fall 2024
 
